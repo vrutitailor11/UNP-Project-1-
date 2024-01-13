@@ -12,3 +12,7 @@ c) Experimented with different Machine Learning algorithms.
 
 d) Compared the results to recommend the best Regression model.
 
+COLAB LINK : https://colab.research.google.com/drive/1U_ckvTjSMtAOBF6Qo6iq23BITRs9I6Qi?usp=sharing
+
+PRESENTATION LINK : https://www.canva.com/design/DAF4KL3w06g/pk2EtS0lW8E9rE6VuVRFPw/view?utm_content=DAF4KL3w06g&utm_campaign=designshare&utm_medium=link&utm_source=editor  
+
