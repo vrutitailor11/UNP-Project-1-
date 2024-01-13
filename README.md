@@ -1,5 +1,6 @@
 # UNP-Project-1
-#Red Wine Quality Prediction - Using Machine Learning
+
+Red Wine Quality Prediction - Using Machine Learning
 
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). Key highlights:
 
